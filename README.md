@@ -42,9 +42,9 @@ THEN I find a concise, descriptive title
 
 Below in this section are links to both the deployed website and the file repository themself. The website can function as either a standalone or starter/homepage to contiune to build a more indepth website. There is a navagational bar at the top of the webiste that will allow the user to quickly go to the desired content.
 
-[CLick here to view the website](https://odetothecode.github.io/semantic-html/)
+[CLick here to view the deployed website](https://odetothecode.github.io/semantic-html/)
 
-![Click here to see the image](./assets/images/digital-marketing-meeting.jpg)
+[Click here to see Git Repository](https://github.com/OdeToTheCode/semantic-html)
 
 
 
