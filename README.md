@@ -13,7 +13,7 @@ In both the CSS file and the html file we corrected some typos in the coding its
 
 ## Mock-Up
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](https://odetothecode.github.io/semantic-html/)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/Screenshots/Screenshot%202022-12-14%20at%204.54.05%20PM.png)
 
 ![Another Example](./assets/Screenshots/Screenshot%202022-12-14%20at%204.54.21%20PM.png)
 
